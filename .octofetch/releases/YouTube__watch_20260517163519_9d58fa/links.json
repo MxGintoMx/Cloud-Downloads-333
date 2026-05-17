@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2930",
+  "folder": "YouTube__watch_20260517163519_9d58fa",
+  "base_name": "RX_9070_XT_-_Forza_Horizon_6_-_Great_Performance_But_There_s_a_Problem_sY00M6IyR3w_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/MxGintoMx/Cloud-Downloads-333/releases/tag/co-releases-v1-2930",
+  "files": [
+    {
+      "name": "RX_9070_XT_-_Forza_Horizon_6_-_Great_Performance_But_There_s_a_Problem_sY00M6IyR3w_480p.mp4",
+      "url": "https://github.com/MxGintoMx/Cloud-Downloads-333/releases/download/co-releases-v1-2930/RX_9070_XT_-_Forza_Horizon_6_-_Great_Performance_But_There_s_a_Problem_sY00M6IyR3w_480p.mp4",
+      "api_url": "https://api.github.com/repos/MxGintoMx/Cloud-Downloads-333/releases/assets/422602974",
+      "id": 422602974,
+      "size": 209399400,
+      "download_count": 0
+    }
+  ]
+}
